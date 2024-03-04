@@ -14,9 +14,11 @@ This project focuses on image classification using deep learning techniques, par
 
 ## Project Structure
 
-- `best_model.h5`: Pre-trained CNN model stored in Hierarchical Data Format 5 (HDF5) file format.
+- **Note:** The pre-trained CNN model file (`best_model.h5`) is not provided in this repository due to its large size (greater than 25 MB). You can train your own model or obtain a pre-trained model from other sources and if you need the model file you can contact me.
+- `README.md`: Markdown file containing project description, usage instructions, and other relevant information.
 - `image_classification.ipynb`: Jupyter Notebook containing the main code for image classification, including preprocessing, feature extraction, similarity search, and visualization.
 - `G:\\Images\\rose.jpeg`: Example query image for similarity search.
+
 
 ## Usage
 
